@@ -1,4 +1,4 @@
 const resta = (num1, num2) => {
     return num1 - num2;
 };
-console.log(suma(300,167));
+console.log(resta(300,167));
